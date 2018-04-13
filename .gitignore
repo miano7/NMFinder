@@ -11,8 +11,9 @@
 Backup/
 
 #Test files
-.cd
-.xls
+*.cd
+*.xls
+*.xlsx
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
