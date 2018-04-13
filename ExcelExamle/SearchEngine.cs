@@ -130,6 +130,7 @@ namespace NMFinder
              */
             //this is master branch
             //This is master
+            //Finish master
             string pathFile = null;
             
             var fPathExtension = filesListArray.LastOrDefault().IndexOf(".");
