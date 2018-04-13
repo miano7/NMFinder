@@ -24,6 +24,9 @@ namespace NMFinder
         public delegate void directoryStatus(string directory);
         public delegate void fillListOfFoundedFile();
         //Search class reference
+        float a;
+        float b;
+        float c;
         SearchEngine Search = new SearchEngine();
         //Search thread
         private Thread searchThread;
