@@ -27,6 +27,7 @@ namespace NMFinder
         float a;
         float b;
         float c;
+        int i = 5;
         SearchEngine Search = new SearchEngine();
         //Search thread
         private Thread searchThread;
