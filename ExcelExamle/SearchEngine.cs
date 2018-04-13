@@ -129,6 +129,7 @@ namespace NMFinder
             List<int> extListDrw = new List<int>();
              */
             //this is master branch
+            //This is master
             string pathFile = null;
             
             var fPathExtension = filesListArray.LastOrDefault().IndexOf(".");
