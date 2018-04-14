@@ -28,6 +28,9 @@ namespace NMFinder
         //Search thread
         private Thread searchThread;
         //Create a list of parts.
+
+        //Hello Backup
+
         private static List<string> parts = new List<string>();
         private static List<string> partsOnlyLast = new List<string>();
         public static List<string> Parts
